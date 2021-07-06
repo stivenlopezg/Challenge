@@ -36,7 +36,7 @@ python monitoring.py
 
 Este código produce la siguiente salida:
 
-<img src="screenshots/run%20prediction.PNG" alt=""/>
+<img src="screenshots/monitoring.PNG" alt=""/>
 
 **Nota**: El monitoreo se hace independientemente del país, es decir, se calculan las distancias entre distribuciones de los datos de entrenamiento de todos los países con respecto a como llegaría un nuevo set de datos para aplicar todos los modelos. Por tanto, una mejora es calcular esto pero para cada set de entrenamiento independiente con respecto a los datos nuevos del país al que correspondan.
 
